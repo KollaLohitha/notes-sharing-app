@@ -5,8 +5,7 @@ A full-stack Notes Sharing Web Application that allows users to upload, manage, 
 ---
 
 ## Live Demo
-  https://notes-sharing-app.vercel.app
-
+  https://notes-sharing-app-beta.vercel.app/
 ---
 
 ## Tech Stack
